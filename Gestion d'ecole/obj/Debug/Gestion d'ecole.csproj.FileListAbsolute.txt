@@ -1,0 +1,15 @@
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion d'ecole.csproj.AssemblyReference.cache
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Properties.Resources.resources
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion d'ecole.csproj.GenerateResource.cache
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion d'ecole.csproj.CoreCompileInputs.cache
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\Gestion d'ecole.exe.config
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\Gestion d'ecole.exe
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\Gestion d'ecole.pdb
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\EntityFramework.dll
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\EntityFramework.xml
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion .71C718CF.Up2Date
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion d'ecole.exe
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion d'ecole.pdb
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Migrations.creation_des_tables.resources
