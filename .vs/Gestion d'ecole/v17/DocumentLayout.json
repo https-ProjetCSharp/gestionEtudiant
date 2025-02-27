@@ -3,79 +3,83 @@
   "WorkspaceRootPath": "C:\\Projet professionnel\\Gestion d\u0027ecole\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\migrations\\202502271214228_changement_des_listes_\u00E0_collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\migrations\\202502271214228_changement_des_listes_\u00E0_collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\professeurclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\professeurclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\professeurmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\professeurmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\coursmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\coursmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\classecours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\classecours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\professeurmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\professeurmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\professeurclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\professeurclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\coursmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\coursmatiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\cours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\classecours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\classecours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\classe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\matiere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\migrations\\202502262252036_creation_des_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\professeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -86,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,12 +109,25 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202502271214228_changement_des_listes_\u00E0_collection.cs",
+              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Migrations\\202502271214228_changement_des_listes_\u00E0_collection.cs",
+              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Migrations\\202502271214228_changement_des_listes_\u00E0_collection.cs",
+              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Migrations\\202502271214228_changement_des_listes_\u00E0_collection.cs",
+              "RelativeToolTip": "Gestion d\u0027ecole\\Migrations\\202502271214228_changement_des_listes_\u00E0_collection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:14:34.371Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "202502262252036_creation_des_tables.Designer.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Migrations\\202502262252036_creation_des_tables.Designer.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Migrations\\202502262252036_creation_des_tables.Designer.cs",
@@ -118,12 +135,11 @@
               "RelativeToolTip": "Gestion d\u0027ecole\\Migrations\\202502262252036_creation_des_tables.Designer.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:54:26.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T22:54:26.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "202502262252036_creation_des_tables.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Migrations\\202502262252036_creation_des_tables.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Migrations\\202502262252036_creation_des_tables.cs",
@@ -131,25 +147,24 @@
               "RelativeToolTip": "Gestion d\u0027ecole\\Migrations\\202502262252036_creation_des_tables.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:52:20.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T22:52:20.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Migrations\\Configuration.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Migrations\\Configuration.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:50:57.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Program.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Program.cs",
@@ -162,20 +177,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "DB.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\DB.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\DB.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\DB.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\DB.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:34:22.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\App.config",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\App.config",
@@ -183,12 +198,11 @@
               "RelativeToolTip": "Gestion d\u0027ecole\\App.config",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwBAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-26T22:31:42.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T22:31:42.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProfesseurClasse.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\ProfesseurClasse.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\ProfesseurClasse.cs",
@@ -214,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "CoursMatiere.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\CoursMatiere.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\CoursMatiere.cs",
@@ -227,46 +241,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ClasseCours.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\ClasseCours.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\ClasseCours.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\ClasseCours.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\ClasseCours.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:29:01.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "OTPCode.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\OTPCode.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\OTPCode.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\OTPCode.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\OTPCode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:28:34.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Utilisateur.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Utilisateur.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Utilisateur.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Utilisateur.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\Utilisateur.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:28:03.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Professeur.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Professeur.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Professeur.cs",
@@ -274,85 +288,83 @@
               "RelativeToolTip": "Gestion d\u0027ecole\\Professeur.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:26:52.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T22:26:52.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Matiere.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Matiere.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Matiere.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Matiere.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\Matiere.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIA8wA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:26:16.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Cours.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Cours.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Cours.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Cours.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\Cours.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:25:35.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Note.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Note.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Note.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\Note.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:24:28.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Classe.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Classe.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Classe.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Classe.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\Classe.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA4AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:23:55.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Etudiant.cs",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Etudiant.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Etudiant.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Etudiant.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\Etudiant.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T22:23:12.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Form1.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Form1.cs",
               "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Form1.cs [Design]",
               "RelativeToolTip": "Gestion d\u0027ecole\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:22:07.922Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-26T22:22:07.922Z"
             }
           ]
         }

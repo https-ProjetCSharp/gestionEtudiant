@@ -11,7 +11,7 @@ namespace Gestion_d_ecole
         public int Id { get; set; }
         public string NomCours { get; set; }
         public string Description { get; set; }
-        public List<CoursMatiere> CoursMatieres { get; set; }
-        public List<ClasseCours> ClassesCours { get; set; }
+        public ICollection<CoursMatiere> CoursMatieres { get; set; }
+        public ICollection<ClasseCours> ClassesCours { get; set; }
     }
 }

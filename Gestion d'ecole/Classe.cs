@@ -10,8 +10,8 @@ namespace Gestion_d_ecole
     {
         public int Id { get; set; }
         public string NomClasse { get; set; }
-        public List<Etudiant> Etudiants { get; set; }
-        public List<ClasseCours> ClassesCours { get; set; }
-        public List<ProfesseurClasse> ProfesseursClasses { get; set; }
+        public ICollection<Etudiant> Etudiants { get; set; }
+        public ICollection<ClasseCours> ClassesCours { get; set; }
+        public ICollection<ProfesseurClasse> ProfesseursClasses { get; set; }
     }
 }

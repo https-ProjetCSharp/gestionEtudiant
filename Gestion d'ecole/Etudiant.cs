@@ -20,6 +20,6 @@ namespace Gestion_d_ecole
         public string Email { get; set; }
         public int IdClasse { get; set; }
         public Classe Classe { get; set; }
-        public List<Note> Notes { get; set; }
+        public ICollection<Note> Notes { get; set; }
     }
 }

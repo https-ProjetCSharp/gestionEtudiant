@@ -10,7 +10,7 @@ namespace Gestion_d_ecole
     {
         public int Id { get; set; }
         public string NomMatiere { get; set; }
-        public List<CoursMatiere> CoursMatieres { get; set; }
-        public List<ProfesseurMatiere> ProfesseursMatieres { get; set; }
+        public ICollection<CoursMatiere> CoursMatieres { get; set; }
+        public ICollection<ProfesseurMatiere> ProfesseursMatieres { get; set; }
     }
 }
