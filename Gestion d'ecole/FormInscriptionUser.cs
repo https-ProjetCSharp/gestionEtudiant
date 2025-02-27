@@ -10,11 +10,15 @@ using System.Windows.Forms;
 
 namespace Gestion_d_ecole
 {
-    public partial class Form1 : Form
+    public partial class FormInscriptionUser : Form
     {
-        public Form1()
+        public FormInscriptionUser()
         {
             InitializeComponent();
         }
+
+        private void btnEnregistrerIns_Click(object sender, EventArgs e)
+        {
+        }
+        }
     }
-}

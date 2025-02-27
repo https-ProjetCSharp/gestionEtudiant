@@ -14,3 +14,5 @@ C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion d'ecol
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion d'ecole.pdb
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Migrations.creation_des_tables.resources
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Migrations.changement_des_listes_à_collection.resources
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormConnexion.resources
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormInscriptionUser.resources
