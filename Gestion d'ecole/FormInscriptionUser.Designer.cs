@@ -117,6 +117,7 @@
             this.txtTelephone.Name = "txtTelephone";
             this.txtTelephone.Size = new System.Drawing.Size(376, 42);
             this.txtTelephone.TabIndex = 8;
+            this.txtTelephone.TextChanged += new System.EventHandler(this.txtTelephone_TextChanged);
             // 
             // cmbRole
             // 
@@ -130,6 +131,8 @@
             this.cmbRole.Name = "cmbRole";
             this.cmbRole.Size = new System.Drawing.Size(376, 28);
             this.cmbRole.TabIndex = 9;
+            this.cmbRole.SelectedIndexChanged += new System.EventHandler(this.cmbRole_SelectedIndexChanged);
+            this.cmbRole.Validating += new System.ComponentModel.CancelEventHandler(this.cmbRole_Validating);
             // 
             // label5
             // 

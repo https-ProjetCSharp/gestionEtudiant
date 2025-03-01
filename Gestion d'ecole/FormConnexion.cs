@@ -36,5 +36,13 @@ namespace Gestion_d_ecole
         {
 
         }
+
+        private void btnConnecter_Click(object sender, EventArgs e)
+        {
+            using (var db = new DB())
+            {
+               
+            }
+        }
     }
 }

@@ -16,3 +16,13 @@ C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecol
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Migrations.changement_des_listes_à_collection.resources
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormConnexion.resources
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormInscriptionUser.resources
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\BCrypt.Net-Next.dll
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Buffers.dll
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Memory.dll
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Numerics.Vectors.dll
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\BCrypt.Net-Next.xml
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Buffers.xml
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Memory.xml
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Numerics.Vectors.xml
+C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

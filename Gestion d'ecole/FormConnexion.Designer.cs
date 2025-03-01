@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtNomUtilisateur = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtPassword = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.btnConnecter = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -41,13 +41,13 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtNomUtilisateur
             // 
-            this.textBox1.Location = new System.Drawing.Point(217, 246);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(410, 36);
-            this.textBox1.TabIndex = 1;
+            this.txtNomUtilisateur.Location = new System.Drawing.Point(217, 246);
+            this.txtNomUtilisateur.Multiline = true;
+            this.txtNomUtilisateur.Name = "txtNomUtilisateur";
+            this.txtNomUtilisateur.Size = new System.Drawing.Size(410, 36);
+            this.txtNomUtilisateur.TabIndex = 1;
             // 
             // label1
             // 
@@ -61,14 +61,14 @@
             this.label1.Text = "Login";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // textBox2
+            // txtPassword
             // 
-            this.textBox2.Location = new System.Drawing.Point(217, 348);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(410, 36);
-            this.textBox2.TabIndex = 3;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.txtPassword.Location = new System.Drawing.Point(217, 348);
+            this.txtPassword.Multiline = true;
+            this.txtPassword.Name = "txtPassword";
+            this.txtPassword.Size = new System.Drawing.Size(410, 36);
+            this.txtPassword.TabIndex = 3;
+            this.txtPassword.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label3
             // 
@@ -77,9 +77,9 @@
             this.label3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label3.Location = new System.Drawing.Point(12, 253);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(196, 24);
+            this.label3.Size = new System.Drawing.Size(202, 24);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Nom d\'utilisation";
+            this.label3.Text = "Nom d\'utilisateur";
             // 
             // btnConnecter
             // 
@@ -91,6 +91,7 @@
             this.btnConnecter.TabIndex = 6;
             this.btnConnecter.Text = "Connecter";
             this.btnConnecter.UseVisualStyleBackColor = false;
+            this.btnConnecter.Click += new System.EventHandler(this.btnConnecter_Click);
             // 
             // button2
             // 
@@ -156,9 +157,9 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.btnConnecter);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtNomUtilisateur);
             this.Controls.Add(this.pictureBox1);
             this.ForeColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.Name = "FormConnexion";
@@ -174,9 +175,9 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtNomUtilisateur;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnConnecter;
         private System.Windows.Forms.Button button2;
