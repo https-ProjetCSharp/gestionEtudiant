@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Projet_C-Sharp_Groupe9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet_c-sharp_groupe9\\gestion d\u0027ecole\\formprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\formprofesseur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet_c-sharp_groupe9\\gestion d\u0027ecole\\formclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\formclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet_c-sharp_groupe9\\gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet_C-Sharp_Groupe9\\gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -71,6 +75,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormProfesseur.cs [Design]",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormProfesseur.cs",
+              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormProfesseur.cs",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormProfesseur.cs [Design]",
+              "RelativeToolTip": "Gestion d\u0027ecole\\FormProfesseur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T00:55:56.694Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FormClasse.cs [Design]",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormClasse.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormClasse.cs",
@@ -82,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FormConnexion.cs [Design]",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormConnexion.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormConnexion.cs",
@@ -93,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Program.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Program.cs",
@@ -105,19 +121,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FormInscriptionUser.cs [Design]",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormInscriptionUser.cs",
               "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormInscriptionUser.cs [Design]",
               "RelativeToolTip": "Gestion d\u0027ecole\\FormInscriptionUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:12:06.18Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-27T13:12:06.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FormInscriptionUser.cs",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormInscriptionUser.cs",
@@ -125,12 +140,11 @@
               "RelativeToolTip": "Gestion d\u0027ecole\\FormInscriptionUser.cs",
               "ViewState": "AgIAABEAAADgzMzMzIwqwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T13:49:47.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T13:49:47.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FormConnexion.cs",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormConnexion.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormConnexion.cs",
@@ -142,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Utilisateur.cs",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Utilisateur.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Utilisateur.cs",
@@ -154,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OTPCode.cs",
               "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\OTPCode.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\OTPCode.cs",

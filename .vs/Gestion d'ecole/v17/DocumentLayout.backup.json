@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projet professionnel\\Gestion d\u0027ecole\\",
+  "WorkspaceRootPath": "C:\\Projet_C-Sharp_Groupe9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet_c-sharp_groupe9\\gestion d\u0027ecole\\formclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\formclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet_c-sharp_groupe9\\gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet_C-Sharp_Groupe9\\gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\forminscriptionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\gestion d\u0027ecole\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet_C-Sharp_Groupe9\\gestion d\u0027ecole\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\formconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:Gestion d\u0027ecole\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormConnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormConnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:Gestion d\u0027ecole\\FormConnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:Gestion d\u0027ecole\\Utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|c:\\projet professionnel\\gestion d\u0027ecole\\gestion d\u0027ecole\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|C:\\Projet_C-Sharp_Groupe9\\gestion d\u0027ecole\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBE3C675-BCCB-4883-BCE5-01FB02558DBC}|Gestion d\u0027ecole\\Gestion d\u0027ecole.csproj|solutionrelative:gestion d\u0027ecole\\otpcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,11 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -58,36 +70,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormConnexion.cs [Design]",
-              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormConnexion.cs",
-              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormConnexion.cs",
-              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormConnexion.cs [Design]",
-              "RelativeToolTip": "Gestion d\u0027ecole\\FormConnexion.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "FormClasse.cs [Design]",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormClasse.cs",
+              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormClasse.cs",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormClasse.cs [Design]",
+              "RelativeToolTip": "Gestion d\u0027ecole\\FormClasse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:22:07.922Z",
+              "WhenOpened": "2025-03-02T00:51:20.394Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Program.cs",
-              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Program.cs",
-              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Program.cs",
-              "RelativeToolTip": "Gestion d\u0027ecole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Title": "FormConnexion.cs [Design]",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormConnexion.cs",
+              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormConnexion.cs",
+              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormConnexion.cs [Design]",
+              "RelativeToolTip": "..\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormConnexion.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:39:02.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T22:22:07.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Program.cs",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Program.cs",
+              "RelativeToolTip": "Gestion d\u0027ecole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:39:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormInscriptionUser.cs [Design]",
-              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormInscriptionUser.cs",
-              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormInscriptionUser.cs [Design]",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormInscriptionUser.cs [Design]",
               "RelativeToolTip": "Gestion d\u0027ecole\\FormInscriptionUser.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T13:12:06.18Z",
@@ -95,59 +117,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormInscriptionUser.cs",
-              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormInscriptionUser.cs",
-              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormInscriptionUser.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\FormInscriptionUser.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAWwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAADgzMzMzIwqwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T13:49:47.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormConnexion.cs",
-              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormConnexion.cs",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormConnexion.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\FormConnexion.cs",
-              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\FormConnexion.cs",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\FormConnexion.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\FormConnexion.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAiwCsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T12:28:46.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Utilisateur.cs",
-              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Utilisateur.cs",
-              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Utilisateur.cs",
-              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\Utilisateur.cs",
-              "RelativeToolTip": "Gestion d\u0027ecole\\Utilisateur.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T22:28:03.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T12:28:46.156Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "Gestion d\u0027ecole\\Utilisateur.cs",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\Utilisateur.cs",
+              "RelativeToolTip": "Gestion d\u0027ecole\\Utilisateur.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:28:03.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OTPCode.cs",
-              "DocumentMoniker": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\OTPCode.cs",
+              "DocumentMoniker": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\OTPCode.cs",
               "RelativeDocumentMoniker": "Gestion d\u0027ecole\\OTPCode.cs",
-              "ToolTip": "C:\\Projet professionnel\\Gestion d\u0027ecole\\Gestion d\u0027ecole\\OTPCode.cs",
+              "ToolTip": "C:\\Projet_C-Sharp_Groupe9\\Gestion d\u0027ecole\\OTPCode.cs",
               "RelativeToolTip": "Gestion d\u0027ecole\\OTPCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T09:55:05.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2025-03-01T09:55:05.259Z"
             }
           ]
         }
