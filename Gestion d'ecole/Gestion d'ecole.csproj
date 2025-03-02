@@ -78,6 +78,12 @@
     <Compile Include="CoursMatiere.cs" />
     <Compile Include="DB.cs" />
     <Compile Include="Etudiant.cs" />
+    <Compile Include="FormClasse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClasse.Designer.cs">
+      <DependentUpon>FormClasse.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormConnexion.cs">
       <SubType>Form</SubType>
     </Compile>
