@@ -96,6 +96,12 @@
     <Compile Include="FormInscriptionUser.Designer.cs">
       <DependentUpon>FormInscriptionUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormProfesseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfesseur.Designer.cs">
+      <DependentUpon>FormProfesseur.cs</DependentUpon>
+    </Compile>
     <Compile Include="Matiere.cs" />
     <Compile Include="Migrations\202502262252036_creation_des_tables.cs" />
     <Compile Include="Migrations\202502262252036_creation_des_tables.Designer.cs">
