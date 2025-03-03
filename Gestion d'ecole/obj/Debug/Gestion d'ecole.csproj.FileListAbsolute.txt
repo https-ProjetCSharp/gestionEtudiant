@@ -26,3 +26,33 @@ C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Buffers
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Memory.xml
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Numerics.Vectors.xml
 C:\Projet professionnel\Gestion d'ecole\Gestion d'ecole\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\Gestion d'ecole.exe.config
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\Gestion d'ecole.exe
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\Gestion d'ecole.pdb
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\BCrypt.Net-Next.dll
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\EntityFramework.dll
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Buffers.dll
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Memory.dll
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Numerics.Vectors.dll
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\BCrypt.Net-Next.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\EntityFramework.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Buffers.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Memory.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Numerics.Vectors.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.csproj.AssemblyReference.cache
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormClasse.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormConnexion.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormInscriptionUser.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Migrations.creation_des_tables.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Migrations.changement_des_listes_à_collection.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.Properties.Resources.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.csproj.GenerateResource.cache
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.csproj.CoreCompileInputs.cache
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion .71C718CF.Up2Date
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.exe
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.pdb
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormEtudiant.resources
