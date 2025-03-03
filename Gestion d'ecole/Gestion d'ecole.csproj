@@ -90,6 +90,12 @@
     <Compile Include="FormConnexion.Designer.cs">
       <DependentUpon>FormConnexion.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormEtudiant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEtudiant.Designer.cs">
+      <DependentUpon>FormEtudiant.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormInscriptionUser.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -120,8 +126,14 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utilisateur.cs" />
+    <EmbeddedResource Include="FormClasse.resx">
+      <DependentUpon>FormClasse.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormConnexion.resx">
       <DependentUpon>FormConnexion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEtudiant.resx">
+      <DependentUpon>FormEtudiant.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormInscriptionUser.resx">
       <DependentUpon>FormInscriptionUser.cs</DependentUpon>
