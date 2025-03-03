@@ -56,3 +56,4 @@ C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion .71C718CF.Up2Date
 C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.exe
 C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.pdb
 C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormEtudiant.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormProfesseur.resources

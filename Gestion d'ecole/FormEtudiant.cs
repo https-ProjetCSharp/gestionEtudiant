@@ -286,7 +286,7 @@ private void txtetudiantsexe_SelectedIndexChanged(object sender, EventArgs e)
 
         private void txtetudiantclasse_Validating(object sender, CancelEventArgs e)
         {
-            recharge();
+            /*recharge();
             if (mes_classes.Contains(txtetudiantclasse.Text) == false)
             {
                 e.Cancel = true;
@@ -296,7 +296,7 @@ private void txtetudiantsexe_SelectedIndexChanged(object sender, EventArgs e)
             {
                 errorProvider1.SetError(txtetudiantclasse, "");
                 e.Cancel = false;
-            }
+            }*/
         }
 
         private void txtetudiantclasse_KeyPress(object sender, KeyPressEventArgs e)
@@ -478,6 +478,11 @@ private void txtetudiantsexe_SelectedIndexChanged(object sender, EventArgs e)
                     }
                 }
             }
+        }
+
+        private void txtfiltre_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = true;
         }
 
         /*
