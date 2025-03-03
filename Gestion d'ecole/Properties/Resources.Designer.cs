@@ -73,6 +73,26 @@ namespace Gestion_d_ecole.Properties {
         /// <summary>
         ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_prof_64 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-prof-64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap OIP {
+            get {
+                object obj = ResourceManager.GetObject("OIP", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Security_shield_Logo_by_Acongraphic_13_580x386 {
             get {
                 object obj = ResourceManager.GetObject("Security-shield-Logo-by-Acongraphic-13-580x386", resourceCulture);
