@@ -57,3 +57,4 @@ C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.exe
 C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion d'ecole.pdb
 C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormEtudiant.resources
 C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormProfesseur.resources
+C:\Projet_C-Sharp_Groupe9\Gestion d'ecole\obj\Debug\Gestion_d_ecole.FormMatiere.resources

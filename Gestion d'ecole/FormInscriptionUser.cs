@@ -79,6 +79,157 @@ namespace Gestion_d_ecole
                 e.Cancel = true; // Annule la validation
             }
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAnnulerIns_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            using (var db = new DB())
+            {
+                try
+                {
+                    var utilisateur = db.Utilisateurs.FirstOrDefault(u => u.NomUtilisateur == txtNomUtilisateurIns.Text);
+                    if (utilisateur == null)
+                    {
+                        MessageBox.Show("Utilisateur introuvable !");
+                        return;
+                    }
+
+                    // Vérification si le nouveau nom d'utilisateur existe déjà chez un autre utilisateur
+                    if (utilisateur.NomUtilisateur != txtNomUtilisateurIns.Text &&
+                        db.Utilisateurs.Any(u => u.NomUtilisateur == txtNomUtilisateurIns.Text))
+                    {
+                        MessageBox.Show("Ce nom d'utilisateur est déjà pris. Veuillez en choisir un autre.");
+                        return;
+                    }
+
+                    // Mise à jour des informations
+                    utilisateur.NomUtilisateur = txtNomUtilisateurIns.Text;
+                    utilisateur.Telephone = txtTelephone.Text;
+                    utilisateur.Role = cmbRole.Text;
+
+                    // Mettre à jour le mot de passe uniquement si un nouveau est saisi
+                    if (!string.IsNullOrWhiteSpace(txtPasswordIns.Text))
+                    {
+                        utilisateur.MotDePasse = BCrypt.Net.BCrypt.HashPassword(txtPasswordIns.Text);
+                    }
+
+                    db.SaveChanges();
+                    MessageBox.Show("Utilisateur modifié avec succès !");
+                    refresh();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show($"Erreur lors de la modification : {ex.Message}");
+                }
+            }
+        }
+        public void refresh()
+        {
+            using (var db = new DB())
+            {
+                dataGridViewIns.DataSource = db.Utilisateurs.ToList();
+            }
+        }
+
+        private void dataGridViewIns_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+
+            if (e.RowIndex >= 0) // Vérifier qu'on ne clique pas sur l'en-tête
+            {
+                DataGridViewRow row = dataGridViewIns.Rows[e.RowIndex];
+
+                // Remplir les champs avec les valeurs de la ligne sélectionnée
+                txtNomUtilisateurIns.Text = row.Cells["NomUtilisateur"].Value.ToString();
+                txtTelephone.Text = row.Cells["Telephone"].Value.ToString();
+                cmbRole.Text = row.Cells["Role"].Value.ToString();
+
+                // Ne pas afficher le mot de passe pour la sécurité
+                txtPasswordIns.Text = "";
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrWhiteSpace(txtNomUtilisateurIns.Text))
+            {
+                MessageBox.Show("Veuillez sélectionner un utilisateur à supprimer !");
+                return;
+            }
+
+            DialogResult confirm = MessageBox.Show("Êtes-vous sûr de vouloir supprimer cet utilisateur ?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+            if (confirm == DialogResult.Yes)
+            {
+                using (var db = new DB())
+                {
+                    try
+                    {
+                        var utilisateur = db.Utilisateurs.FirstOrDefault(u => u.NomUtilisateur == txtNomUtilisateurIns.Text);
+                        if (utilisateur == null)
+                        {
+                            MessageBox.Show("Utilisateur introuvable !");
+                            return;
+                        }
+
+                        db.Utilisateurs.Remove(utilisateur);
+                        db.SaveChanges();
+
+                        MessageBox.Show("Utilisateur supprimé avec succès !");
+                        refresh(); // Met à jour le DataGridView
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Erreur lors de la suppression : {ex.Message}");
+                    }
+                }
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            string recherche = txtNomUtilisateurIns.Text.Trim().ToLower(); // Supprime les espaces et met en minuscules
+
+            using (var db = new DB())
+            {
+                var utilisateurs = db.Utilisateurs
+                    .Where(u => u.NomUtilisateur.ToLower().Contains(recherche) ||
+                                u.Telephone.Contains(recherche) ||
+                                u.Role.ToLower().Contains(recherche))
+                    .Select(u => new
+                    {
+                        u.NomUtilisateur,
+                        u.Telephone,
+                        u.Role
+                    })
+                    .ToList();
+
+                dataGridViewIns.DataSource = utilisateurs;
+
+                if (utilisateurs.Count == 0)
+                {
+                    MessageBox.Show("Aucun utilisateur trouvé !");
+                }
+            }
+        }
+
+        private void FormInscriptionUser_Load(object sender, EventArgs e)
+        {
+            refresh();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 
     }
