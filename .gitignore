@@ -1,0 +1,20 @@
+# Fichiers binaires et build
+bin/
+obj/
+out/
+
+# Fichiers de configuration utilisateur
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs et fichiers temporaires
+*.log
+*.tlog
+*.cache
+*.tmp
+
+# Packages NuGet
